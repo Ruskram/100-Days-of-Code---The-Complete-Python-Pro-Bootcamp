@@ -11,4 +11,4 @@ for question in question_data:
 
 quiz = QuizBrain(question_bank)
 
-quiz.next_question()
+quiz.start_quiz()
